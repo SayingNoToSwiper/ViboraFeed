@@ -28,7 +28,7 @@ public class ViboraApp extends Application {
         public static final int expunge = 90;
         public static final String number = "1";
         public static final int id = 1;
-        public static final String path = "https://opensource.com/feed";
+        public static final String path = "https://rss-bridge.snopyta.org/?action=display&bridge=Facebook&context=User&u=thevigilante&media_type=all&limit=-1&format=Mrss";
     }
 
     public static class Config {
